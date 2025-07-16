@@ -98,6 +98,6 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/romigrick/romigrick/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/romigrick/romigrick/output/snake.svg" />
 
 ###
