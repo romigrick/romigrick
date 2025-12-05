@@ -1,104 +1,137 @@
-## 🎮 Perfil de Desenvolvedor | RomigRick
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" alt="linkedin logo" /> Richardson "Rick" Romig | 📍 Pato Branco, PR
+  <img src="https://raw.githubusercontent.com/romigrick/romigrick/da3486d218a665be04d8e40d91bb1353d040905d/output/snake.svg" alt="Snake animation banner" />
 </div>
 
 ---
 
-### 🌟 Visão Geral do Perfil
-
-| **Status** | **Informações Pessoais** | **Educação** |
-| :--- | :--- | :--- |
-| **Online** (Trabalhando) | **Idade:** 23 anos | **Curso:** Análise e Desenvolvimento de Sistemas |
-| **Profissão:** Designer Gráfico & Motion | **Origem:** Foz do Jordão, PR | **Instituição:** UTFPR |
-| **Experiência:** Mais de 5 anos | **Foco:** Frontend com background em UX/UI | **Situação:** Em formação |
-
----
-
-### 🎨 O Showcases do Designer Gráfico (Custom Info Boxes)
-
-> "Atuo há mais de 5 anos como designer gráfico e motion, assim como no desenvolvimento de sites WordPress."
-
-#### **🏅 Badges & Habilidades Frontend (UX/UI Mastery)**
-
-| **🏆 UI/UX Pro** | **🚀 Especialista em Prototipagem** | **💻 Web Development Starter** |
-| :--- | :--- | :--- |
-| Entendimento do comportamento do usuário. | Proficiência em ferramentas do dia-a-dia. | Afinidade com as linguagens de estrutura e estilo. |
-| Dirijo o usuário para a informação principal. | **Figma**, **Adobe XD**, **Photoshop**. | **HTML5**, **CSS3**, **React** (Estudando). |
+# 🔰 Stalker DEV PROFILE | Richardson "Rick" Romig
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="xd logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <p>Richardson 🇧🇷 Pato Branco, Paraná, Brasil</p>
+  <p><i>Just trying to be Happy</i></p>
+  <p>Conecte-se: <a href="https://www.linkedin.com/in/romigrick" target="_blank">linkedin.com/in/romigrick</a></p>
 </div>
 
 ---
 
-### ⚙️ Biblioteca de Jogos (Backend & Linguagens)
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      
+      <h2>📦 Colecionador de Projetos (Development History)</h2>
+      
+      <div align="left">
+        <p><strong>Foco Atual:</strong> Análise e Desenvolvimento de Sistemas (UTFPR)</p>
+        <p><strong>Experiência:</strong> 5+ anos em Design Gráfico e Motion</p>
+      </div>
 
-> "Como aluno do curso de Análise e Desenvolvimento de Sistemas, já executei projetos utilizando as linguagens **Java**, **C** e **Javascript**."
+      <div align="center">
+        <h3><p><strong>166</strong></p> Projetos Concluídos (Github)</h3>
+        <h3><p><strong>204</strong></p> Contribs. Adicionais</h3>
+        <h3><p><strong>4</strong></p> Análises/Artigos</h3>
+        <h3><p><strong>19</strong></p> Na Lista de Desejos (Techs a aprender)</h3>
+      </div>
+      
+      <hr>
 
-#### **Backend | Linguagens Atuais & em Desenvolvimento**
+      <h2>🏆 Skills em Destaque (Tech Stack)</h2>
+      
+      <div align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+        <img width="15" />
+        <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Adobe Photoshop" />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+      </div>
 
-<div align="left">
-  *Estou me desenvolvendo em **Spring Boot** para projetos robustos.*
-</div>
+      <br>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-</div>
+      <h2>⚙️ Foco e Inventário (Backend & Frameworks)</h2>
+      <p align="left"><i>Itens raros e em desenvolvimento (UTFPR)</i></p>
+      
+      <div align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+        <img width="15" />
+        <img src="https://skillicons.dev/icons?i=js" height="40" alt="Javascript" />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="Linguagem C" />
+        <img width="15" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="Adobe XD" />
+      </div>
+      
+      <div align="left">
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romigrick&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=true" alt="languages graph"  />
+        <h3><p><strong>366</strong></p> commits e contribuições na área de TI!</h3>
+      </div>
+      
+    </td>
+    
+    <td width="30%" valign="top" style="padding-left: 20px;">
+      
+      <div style="background-color: #1a1a1a; padding: 15px; border-radius: 5px; margin-bottom: 20px; color: white;">
+        <h3 align="right">Nível <span><span style="border: 2px solid red; border-radius: 50%; padding: 5px 10px; background-color: darkred;">18</span></span></h3>
+        <p align="left">9 Anos de Serviço (Designer/Dev)</p>
+        <p align="left">450 XP (em busca de mais conhecimento)</p>
+        <div align="center">
+          <a href="https://www.linkedin.com/in/romigrick" target="_blank" style="text-decoration: none; color: white; border: 1px solid #5a5a5a; padding: 5px 10px; display: block; margin-top: 10px;">Editar Perfil (Contrate-me!)</a>
+        </div>
+      </div>
+
+      <div style="margin-bottom: 20px;">
+        <h4 style="color: grey;">Off-line</h4>
+        <p style="color: #5a5a5a;">Visível agora: <strong>ONLINE</strong> (Trabalhando em Spring Boot)</p>
+      </div>
+      
+      <h2>✨ Insígnias (Conquistas)</h2>
+      <div align="left">
+        <p>16 Insígnias Totais</p>
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin badge" title="LinkedIn Master" />
+        <img width="5" />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="instagram badge" title="Social Collector" />
+        <img width="5" />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="30" height="30" alt="twitch badge" title="Live Streamer" />
+      </div>
+
+      <hr>
+      <h2>📊 Estatísticas</h2>
+      <div align="left">
+        <p>Projetos no GitHub: <strong>166</strong></p>
+        <p>Inventário (Skills): <strong>34</strong></p>
+        <p>Análises (Artigos/Docs): <strong>4</strong></p>
+        <p>Grupos (Comunidades): <strong>6</strong></p>
+      </div>
+
+      <hr>
+      <h2>✉️ Contato</h2>
+      <div align="left">
+        <a href="instagram.com/_romigrick" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="25" alt="instagram logo" /> Instagram
+        </a>
+        <br>
+        <a href="twitch.tv/0stalker" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="30" height="25" alt="twitch logo" /> Twitch
+        </a>
+        <br>
+        <a href="mailto:richardsonromig201101@gmail.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="25" alt="gmail logo" /> Email
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/romigrick" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="25" alt="linkedin logo" /> LinkedIn
+        </a>
+      </div>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Estatísticas e Conquistas do Jogo (GitHub Stats)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romigrick&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romigrick&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
----
-
-### 🔗 Amigos e Contatos (Social Links)
-
-<div align="left">
-  *Mande uma mensagem ou me siga para acompanhar os projetos!*
-</div>
-
-<div align="left">
-  <a href="instagram.com/_romigrick" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="25" alt="instagram logo"  />
-  </a>
-  <a href="twitch.tv/0stalker" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="35" height="25" alt="twitch logo"  />
-  </a>
-  <a href="mailto:richardsonromig201101@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/romigrick" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
----
-
-<h2 align="left">🕹️ Obrigado pela Visita! (Game Over)</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/romigrick/romigrick/da3486d218a665be04d8e40d91bb1353d040905d/output/snake.svg" alt="Snake animation" />
-</div>
+<h2 align="center">✅ Stalker Design: Profile Loading Complete!</h2>
