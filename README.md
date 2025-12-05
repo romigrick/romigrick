@@ -1,12 +1,12 @@
 ## 🎮 Perfil de Desenvolvedor | RomigRick
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" alt="linkedin logo" /> **Richardson "Rick" Romig** | 📍 Pato Branco, PR
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" alt="linkedin logo" /> Richardson "Rick" Romig | 📍 Pato Branco, PR
 </div>
 
 ---
 
-### 🌟 Visão Geral do Perfil (Inspired by Featured Showcase)
+### 🌟 Visão Geral do Perfil
 
 | **Status** | **Informações Pessoais** | **Educação** |
 | :--- | :--- | :--- |
