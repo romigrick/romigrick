@@ -1,103 +1,104 @@
-<h2 align="left">Olá, eu sou o Richardson. Mas pode me chamar de Rick!</h2>
+<div align="center">
 
-###
+# Richardson Romig
+### Desenvolvedor em Formação
 
-<p align="left">Tenho 23 anos, sou de uma cidade do interior do Paraná chamada Foz do Jordão, mas atualmente moro em Pato Branco - PR. Atuo há mais de 5 anos como designer gráfico e motion, Assim como o desenvolvimento de sites WordPress. Estou em formação no curso de Análise e Desenvolvimento de Sistemas através da UTFPR.</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romigrick)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_romigrick)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richardsonromig201101@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://insidestudio.com.br)
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=romigrick&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romigrick&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
-<h2 align="left">Atuações</h2>
+## 👋 Sobre mim
 
-###
+Tenho 24 anos, sou de Foz do Jordão - PR e atualmente resido em Pato Branco - PR. Com mais de **5 anos de experiência** como designer gráfico e motion designer, desenvolvi uma visão apurada sobre como interfaces afetam o comportamento e a experiência do usuário. Paralelamente, estou em formação no curso de **Análise e Desenvolvimento de Sistemas** pela UTFPR, expandindo minha atuação para o desenvolvimento de software.
 
-<p align="left">Como designer gráfico, adquiri experiência entendendo como o usuário se comporta ao visualizar informações dispostas, seja em artes de redes sociais, como sites e interfaces gráficas de apps, aprendendo a direciona-lo tanto para o que queremos que seja visto, quanto para o que queremos que ele interaja.</p>
+Trabalho com desenvolvimento de **sites WordPress** e estou me aprofundando em tecnologias modernas de frontend e backend.
 
-###
+---
 
-<h2 align="left">Frontend</h2>
+## 🎨 Design & UX
 
-###
+Com anos de atuação como designer, desenvolvi sensibilidade para entender como o usuário consome informação — seja em artes para redes sociais, interfaces de aplicativos ou sites. Essa vivência me permite criar interfaces que não apenas são esteticamente agradáveis, mas que **guiam o usuário** de forma intuitiva e estratégica.
 
-<p align="left">Como atuo há bastante tempo como designer gráfico, entendo como o usuário se comporta ao receber uma interface para que ele execute uma ação, sabendo como dispor informações da melhor maneira para facilitar os processos para o usuário. Também tenho afinidade com as ferramentas utilizadas para prototipação, como Photoshop, Figma e Adobe XD, que fazem parte do meu dia-a-dia como designer.</p>
+**Ferramentas de Design & Prototipação:**
 
-###
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
 
-<h6 align="left">Skills</h6>
+---
 
-###
+## 💻 Desenvolvimento
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ps" height="37" alt="adobephotoshop logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="37" alt="figma logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="37" alt="xd logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css3 logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="37" alt="react logo"  />
+### Frontend
+
+A experiência em design me dá vantagem na construção de interfaces — sei exatamente como dispor informações para facilitar a interação do usuário. Combinando essa visão com as ferramentas de desenvolvimento, produzo frontends funcionais e bem estruturados.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+### Backend
+
+Através da UTFPR, desenvolvi projetos práticos utilizando diferentes linguagens e paradigmas. Atualmente, estou focado no ecossistema **Java + Spring Boot**.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=romigrick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=romigrick&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </div>
 
-###
-
-<h2 align="left">Backend</h2>
-
-###
-
-<p align="left">Como aluno do curso de Análise e Desenvolvimento de Sistemas da UTFPR, já executei projetos utilizando as linguagens Java, C e Javascript(Alguns projetos que estão nos repositórios aqui no Git) e no momento estou me desenvolvendo em Spring Boot</p>
-
-###
-
-<h4 align="left">Skills</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="37" alt="java logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=js" height="37" alt="javascript logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="37" alt="c logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="37" alt="spring logo"  />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=romigrick&theme=tokyonight&hide_border=true" />
 </div>
 
-###
+---
 
-<h2 align="left">Entre em Contato comigo</h2>
+## 🚀 Projetos em Destaque
 
-###
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [**VideoPress**](https://github.com/romigrick/VideoPress) | App desktop para compressão de vídeos em lote com controle total de qualidade | Electron · FFmpeg · JS · HTML |
+| [**Website Inside Studio**](https://github.com/romigrick/Website_Inside_Studio) | Site institucional para estúdio de design gráfico | React · Vite · JavaScript |
+| [**Landing Page AllCross**](https://github.com/romigrick/Landing_Page_AllCross) | Landing page profissional | JavaScript |
+| [**CalculaIMC**](https://github.com/romigrick/CalculaIMC) | Aplicativo mobile para cálculo de IMC | Kotlin · Android Studio |
 
-<div align="left">
-  <a href="instagram.com/_romigrick" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="twitch.tv/0stalker" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"  />
-  </a>
-  <a href="richardsonromig201101@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/romigrick" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
+---
+
+## 📍 Onde me encontrar
+
+<div align="center">
+
+📧 richardsonromig201101@gmail.com  
+🌐 [insidestudio.com.br](https://insidestudio.com.br)  
+📍 Pato Branco, Paraná — Brasil
+
 </div>
 
-###
+---
 
-<h2 align="left">Obrigado pela visita!</h2>
-
-###
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/romigrick/romigrick/da3486d218a665be04d8e40d91bb1353d040905d/output/snake.svg" />
 
-###
+*Obrigado pela visita!*
+
+</div>
